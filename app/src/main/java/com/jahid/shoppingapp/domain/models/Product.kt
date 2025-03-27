@@ -1,5 +1,8 @@
-package com.jahid.shoppingapp.data
+package com.jahid.shoppingapp.domain.models
 
+import kotlinx.serialization.Serializable
+
+@Serializable
 data class Product(
     val name: String = "",
     val category: String = "",
