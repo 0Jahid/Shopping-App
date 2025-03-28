@@ -4,7 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     id("kotlin-kapt")
     id("com.google.dagger.hilt.android") version "2.51" apply true
-    kotlin("plugin.serialization") version "2.0.0"
+    kotlin("plugin.serialization") version "1.9.22"
     alias(libs.plugins.google.gms.google.services) // Updated to match Kotlin version
 
 
@@ -37,12 +37,12 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_11
-        targetCompatibility = JavaVersion.VERSION_11
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
     }
 
     kotlinOptions {
-        jvmTarget = "11"
+        jvmTarget = "17"
     }
 
     buildFeatures {
@@ -77,6 +77,10 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
+    implementation("androidx.room:room-runtime:2.6.1") // Add runtime
+    kapt("androidx.room:room-compiler:2.6.1") // Update compiler
+
+
 // Import the Firebase BoM
     implementation(platform("com.google.firebase:firebase-bom:33.11.0"))
 
@@ -85,7 +89,7 @@ dependencies {
     // Add the dependency for the Firebase SDK for Google Analytics
     implementation("com.google.firebase:firebase-analytics")
 
-    // TODO: Add the dependencies for any other Firebase products you want to use
+
     // See https://firebase.google.com/docs/android/setup#available-libraries
     // For example, add the dependencies for Firebase Authentication and Cloud Firestore
     implementation("com.google.firebase:firebase-auth")
@@ -98,7 +102,7 @@ dependencies {
 
     // Hilt Navigation for Compose
     implementation("androidx.hilt:hilt-navigation-compose:1.2.0")
-    kapt("androidx.hilt:hilt-compiler:1.2.0")
+//    kapt("androidx.hilt:hilt-compiler:1.2.0")
 
     // Recommended: Add Hilt testing dependencies if you'll be testing Hilt components
     testImplementation("com.google.dagger:hilt-android-testing:2.51")
