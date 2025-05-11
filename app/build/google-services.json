@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900060764534",
+    "project_id": "shopping-app-59817",
+    "storage_bucket": "shopping-app-59817.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900060764534:android:c92937e0a8e354738fc257",
+        "android_client_info": {
+          "package_name": "com.jahid.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfvzDApwS7Gxc9M1bL-L5hSztG2dmMpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

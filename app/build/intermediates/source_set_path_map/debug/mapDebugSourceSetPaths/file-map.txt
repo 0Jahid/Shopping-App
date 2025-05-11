@@ -1,0 +1,72 @@
+com.example.shopping.app-annotation-experimental-1.4.1-0 C:\Users\Jahid\.gradle\caches\transforms-4\02e5c7d5dba70f3e0cb91656a48f49a7\transformed\annotation-experimental-1.4.1\res
+com.example.shopping.app-credentials-play-services-auth-1.2.0-rc01-1 C:\Users\Jahid\.gradle\caches\transforms-4\069dc683ea5bea0ddb608a7ac4133146\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.shopping.app-navigation-runtime-2.8.0-beta06-2 C:\Users\Jahid\.gradle\caches\transforms-4\1d0ad5706c6fa5653175d45388fb2c81\transformed\navigation-runtime-2.8.0-beta06\res
+com.example.shopping.app-animation-release-3 C:\Users\Jahid\.gradle\caches\transforms-4\216288bee70de69c3c0df63576c74443\transformed\animation-release\res
+com.example.shopping.app-lifecycle-viewmodel-ktx-2.8.3-4 C:\Users\Jahid\.gradle\caches\transforms-4\338d37b440bde5ba2de3991ab6ee3056\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.example.shopping.app-material-release-5 C:\Users\Jahid\.gradle\caches\transforms-4\419671ef2a859db1e74c74435feb9923\transformed\material-release\res
+com.example.shopping.app-lifecycle-runtime-compose-release-6 C:\Users\Jahid\.gradle\caches\transforms-4\44896f8195b92b2601caefcbbda2a555\transformed\lifecycle-runtime-compose-release\res
+com.example.shopping.app-coil-base-2.6.0-7 C:\Users\Jahid\.gradle\caches\transforms-4\45aa793af8df11a8e66b67aeb5565d94\transformed\coil-base-2.6.0\res
+com.example.shopping.app-profileinstaller-1.3.1-8 C:\Users\Jahid\.gradle\caches\transforms-4\4c465c97ce421150b24eab676d5bf595\transformed\profileinstaller-1.3.1\res
+com.example.shopping.app-play-services-base-18.3.0-9 C:\Users\Jahid\.gradle\caches\transforms-4\4d017a2c43155b7a7e47b091ad9af013\transformed\play-services-base-18.3.0\res
+com.example.shopping.app-ui-test-manifest-1.7.0-beta06-10 C:\Users\Jahid\.gradle\caches\transforms-4\4ead5d993c0ca623e5e467384b3590ae\transformed\ui-test-manifest-1.7.0-beta06\res
+com.example.shopping.app-firebase-common-21.0.0-11 C:\Users\Jahid\.gradle\caches\transforms-4\4faf782dc0353c72b641dccceb66e287\transformed\firebase-common-21.0.0\res
+com.example.shopping.app-navigation-common-ktx-2.8.0-beta06-12 C:\Users\Jahid\.gradle\caches\transforms-4\548692dcb3d34a45057a653d5813551f\transformed\navigation-common-ktx-2.8.0-beta06\res
+com.example.shopping.app-lifecycle-viewmodel-release-13 C:\Users\Jahid\.gradle\caches\transforms-4\5a43027da9925b640f1442edb35c30cc\transformed\lifecycle-viewmodel-release\res
+com.example.shopping.app-navigation-common-2.8.0-beta06-14 C:\Users\Jahid\.gradle\caches\transforms-4\5e8be390f357dea659639a5f3691b71f\transformed\navigation-common-2.8.0-beta06\res
+com.example.shopping.app-runtime-saveable-release-15 C:\Users\Jahid\.gradle\caches\transforms-4\6b476b39f3be3f89b524b858fb2a42a3\transformed\runtime-saveable-release\res
+com.example.shopping.app-ui-graphics-release-16 C:\Users\Jahid\.gradle\caches\transforms-4\6c112b163c50dfd92c05ffcb80406b6c\transformed\ui-graphics-release\res
+com.example.shopping.app-lifecycle-viewmodel-compose-release-17 C:\Users\Jahid\.gradle\caches\transforms-4\6c97e19766531943e930a36a53d8fad2\transformed\lifecycle-viewmodel-compose-release\res
+com.example.shopping.app-graphics-path-1.0.1-18 C:\Users\Jahid\.gradle\caches\transforms-4\716e26a7426136f6889d514a84921285\transformed\graphics-path-1.0.1\res
+com.example.shopping.app-ui-text-release-19 C:\Users\Jahid\.gradle\caches\transforms-4\73426832fddecc4a5771b131d4eb843b\transformed\ui-text-release\res
+com.example.shopping.app-core-runtime-2.2.0-20 C:\Users\Jahid\.gradle\caches\transforms-4\788ada32d859a0848dec73c6f3cf3444\transformed\core-runtime-2.2.0\res
+com.example.shopping.app-ui-release-21 C:\Users\Jahid\.gradle\caches\transforms-4\790124ff197e01a803d54a75cc6062e2\transformed\ui-release\res
+com.example.shopping.app-ui-tooling-data-release-22 C:\Users\Jahid\.gradle\caches\transforms-4\7e659367659bc062247042edfaae2b71\transformed\ui-tooling-data-release\res
+com.example.shopping.app-activity-compose-1.9.0-23 C:\Users\Jahid\.gradle\caches\transforms-4\8bd697e9394d05a833e8f223b936e597\transformed\activity-compose-1.9.0\res
+com.example.shopping.app-lifecycle-viewmodel-savedstate-2.8.3-24 C:\Users\Jahid\.gradle\caches\transforms-4\936013b010cd632797c8fde2b09a9868\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.example.shopping.app-play-services-basement-18.3.0-25 C:\Users\Jahid\.gradle\caches\transforms-4\93e2e4ccbd4f1d18f80b4ecb0c727dc1\transformed\play-services-basement-18.3.0\res
+com.example.shopping.app-ui-unit-release-26 C:\Users\Jahid\.gradle\caches\transforms-4\94e4e8248cafb68b60eb2f8a8376247d\transformed\ui-unit-release\res
+com.example.shopping.app-emoji2-1.3.0-27 C:\Users\Jahid\.gradle\caches\transforms-4\94f6fafaff0f6a533ca8a6a83bd5c8c2\transformed\emoji2-1.3.0\res
+com.example.shopping.app-lifecycle-runtime-release-28 C:\Users\Jahid\.gradle\caches\transforms-4\95cb95b745c8501661045069e9a20142\transformed\lifecycle-runtime-release\res
+com.example.shopping.app-appcompat-resources-1.6.1-29 C:\Users\Jahid\.gradle\caches\transforms-4\9cbfbd66c4139197a9dfcf2be5ec8ee2\transformed\appcompat-resources-1.6.1\res
+com.example.shopping.app-activity-1.9.0-30 C:\Users\Jahid\.gradle\caches\transforms-4\a5c15892770074ba87b9b5bf12af4a44\transformed\activity-1.9.0\res
+com.example.shopping.app-hilt-navigation-compose-1.2.0-31 C:\Users\Jahid\.gradle\caches\transforms-4\a64f2c7ddbfc9997cd9ba9407add6871\transformed\hilt-navigation-compose-1.2.0\res
+com.example.shopping.app-lifecycle-runtime-ktx-release-32 C:\Users\Jahid\.gradle\caches\transforms-4\a678383f1483749e9d9192cef166116f\transformed\lifecycle-runtime-ktx-release\res
+com.example.shopping.app-browser-1.4.0-33 C:\Users\Jahid\.gradle\caches\transforms-4\a7a3c877ebeaf95d03135ceb3a016213\transformed\browser-1.4.0\res
+com.example.shopping.app-fragment-1.5.7-34 C:\Users\Jahid\.gradle\caches\transforms-4\ab28f9190c61698298de02241aa16576\transformed\fragment-1.5.7\res
+com.example.shopping.app-play-services-maps-17.0.0-35 C:\Users\Jahid\.gradle\caches\transforms-4\abcd4475b1804643dde10bc9ff98ebed\transformed\play-services-maps-17.0.0\res
+com.example.shopping.app-lifecycle-process-2.8.3-36 C:\Users\Jahid\.gradle\caches\transforms-4\ae0b450c4eef3cb9a41f69fddf8574b0\transformed\lifecycle-process-2.8.3\res
+com.example.shopping.app-lifecycle-livedata-core-2.8.3-37 C:\Users\Jahid\.gradle\caches\transforms-4\b282baa0af1a0705dbab1e1e9639bb60\transformed\lifecycle-livedata-core-2.8.3\res
+com.example.shopping.app-play-services-wallet-18.1.3-38 C:\Users\Jahid\.gradle\caches\transforms-4\b2bcb7e4c76e419951f680e55e2f0070\transformed\play-services-wallet-18.1.3\res
+com.example.shopping.app-animation-core-release-39 C:\Users\Jahid\.gradle\caches\transforms-4\b5081f6fbd2e7af9f6ffad44acac54ea\transformed\animation-core-release\res
+com.example.shopping.app-foundation-layout-release-40 C:\Users\Jahid\.gradle\caches\transforms-4\c0e6a5f335c6248b66a6987a25eed8ad\transformed\foundation-layout-release\res
+com.example.shopping.app-startup-runtime-1.1.1-41 C:\Users\Jahid\.gradle\caches\transforms-4\c4067a8c12160e349a0ec107224b6250\transformed\startup-runtime-1.1.1\res
+com.example.shopping.app-play-services-auth-21.1.0-42 C:\Users\Jahid\.gradle\caches\transforms-4\c54d27deed679e5c59e52cf6ed155d42\transformed\play-services-auth-21.1.0\res
+com.example.shopping.app-core-ktx-1.13.1-43 C:\Users\Jahid\.gradle\caches\transforms-4\c829b3fe8b6517ebc932a41dc1a92ec2\transformed\core-ktx-1.13.1\res
+com.example.shopping.app-material-icons-core-release-44 C:\Users\Jahid\.gradle\caches\transforms-4\c9e9604384ff3452a2371034ccb8f0b1\transformed\material-icons-core-release\res
+com.example.shopping.app-standard-core-1.6.49-45 C:\Users\Jahid\.gradle\caches\transforms-4\cb9501d3ac5889dcbc33c1655f27f6ec\transformed\standard-core-1.6.49\res
+com.example.shopping.app-credentials-1.2.0-rc01-46 C:\Users\Jahid\.gradle\caches\transforms-4\cfb7e13af511383de3c47b41cea0e884\transformed\credentials-1.2.0-rc01\res
+com.example.shopping.app-material-ripple-release-47 C:\Users\Jahid\.gradle\caches\transforms-4\d120bf46ec0200572e64ef1903875a85\transformed\material-ripple-release\res
+com.example.shopping.app-ui-tooling-preview-release-48 C:\Users\Jahid\.gradle\caches\transforms-4\d1c404d0237ee2071a0c0b614603c753\transformed\ui-tooling-preview-release\res
+com.example.shopping.app-savedstate-ktx-1.2.1-49 C:\Users\Jahid\.gradle\caches\transforms-4\d217e465ad449ddc599d633c9e2311d0\transformed\savedstate-ktx-1.2.1\res
+com.example.shopping.app-hilt-navigation-1.2.0-50 C:\Users\Jahid\.gradle\caches\transforms-4\d4fe8bde880f74cdd926d33b9e5f3f6d\transformed\hilt-navigation-1.2.0\res
+com.example.shopping.app-customview-poolingcontainer-1.0.0-51 C:\Users\Jahid\.gradle\caches\transforms-4\d6778e4e743267729d9cee8014c03009\transformed\customview-poolingcontainer-1.0.0\res
+com.example.shopping.app-navigation-compose-2.8.0-beta06-52 C:\Users\Jahid\.gradle\caches\transforms-4\dfefdff0270449e5a915c76ebb69bcc3\transformed\navigation-compose-2.8.0-beta06\res
+com.example.shopping.app-firebase-messaging-24.0.0-53 C:\Users\Jahid\.gradle\caches\transforms-4\e5244df122e9e6759de66f3784c77388\transformed\firebase-messaging-24.0.0\res
+com.example.shopping.app-savedstate-1.2.1-54 C:\Users\Jahid\.gradle\caches\transforms-4\e64095da50a307228a3f346bf13a79e6\transformed\savedstate-1.2.1\res
+com.example.shopping.app-ui-util-release-55 C:\Users\Jahid\.gradle\caches\transforms-4\e640bba9929158f7b59c437e6ab43817\transformed\ui-util-release\res
+com.example.shopping.app-activity-ktx-1.9.0-56 C:\Users\Jahid\.gradle\caches\transforms-4\e7c137da32b9d2a74c87681143c5446c\transformed\activity-ktx-1.9.0\res
+com.example.shopping.app-core-1.13.1-57 C:\Users\Jahid\.gradle\caches\transforms-4\e7f6b6293a3c4ae479ac3a08dcd0b529\transformed\core-1.13.1\res
+com.example.shopping.app-material3-release-58 C:\Users\Jahid\.gradle\caches\transforms-4\f242c701271eff764adda40b24029dcc\transformed\material3-release\res
+com.example.shopping.app-bottombar-1.0.1-59 C:\Users\Jahid\.gradle\caches\transforms-4\f4211fce5f486b1b8ed5e1a8c22fa506\transformed\bottombar-1.0.1\res
+com.example.shopping.app-ui-geometry-release-60 C:\Users\Jahid\.gradle\caches\transforms-4\f714770c0345ae03f7966f2a29bfc56e\transformed\ui-geometry-release\res
+com.example.shopping.app-foundation-release-61 C:\Users\Jahid\.gradle\caches\transforms-4\f75f970d7f44dea57bc7693942d775d2\transformed\foundation-release\res
+com.example.shopping.app-ui-tooling-release-62 C:\Users\Jahid\.gradle\caches\transforms-4\f892cbc4337ac49d57733982fb951408\transformed\ui-tooling-release\res
+com.example.shopping.app-navigation-runtime-ktx-2.8.0-beta06-63 C:\Users\Jahid\.gradle\caches\transforms-4\fb9333c9fab3643e23b8101d1f41b49d\transformed\navigation-runtime-ktx-2.8.0-beta06\res
+com.example.shopping.app-runtime-release-64 C:\Users\Jahid\.gradle\caches\transforms-4\fe5fd3ad4292f4dbf43b9e268f8b6324\transformed\runtime-release\res
+com.example.shopping.app-res-65 D:\project video\New folder (2)\ShoppingApp\app\build\generated\res\processDebugGoogleServices
+com.example.shopping.app-resValues-66 D:\project video\New folder (2)\ShoppingApp\app\build\generated\res\resValues\debug
+com.example.shopping.app-packageDebugResources-67 D:\project video\New folder (2)\ShoppingApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.shopping.app-packageDebugResources-68 D:\project video\New folder (2)\ShoppingApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.shopping.app-debug-69 D:\project video\New folder (2)\ShoppingApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.shopping.app-debug-70 D:\project video\New folder (2)\ShoppingApp\app\src\debug\res
+com.example.shopping.app-main-71 D:\project video\New folder (2)\ShoppingApp\app\src\main\res

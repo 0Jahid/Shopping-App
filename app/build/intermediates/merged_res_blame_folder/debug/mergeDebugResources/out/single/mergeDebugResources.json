@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_logo_2.png.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_logo_2.png"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/xml_backup_rules.xml.flat",
+        "source": "com.example.shopping.app-main-72:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_shopping_app.png.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_shopping_app.png"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_shoppingcart.png.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/shoppingcart.png"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_img.png.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_google.xml.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_shoppinglady.png.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/shoppinglady.png"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/drawable_ic_logo_1.jpg.flat",
+        "source": "com.example.shopping.app-main-72:/drawable/ic_logo_1.jpg"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.shopping.app-main-72:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.shopping.app-debug-70:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.shopping.app-main-72:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    }
+]
