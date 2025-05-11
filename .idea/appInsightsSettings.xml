@@ -8,10 +8,17 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
+<<<<<<< HEAD
                   <option name="appId" value="com.jahid.shoppingapp" />
                   <option name="mobileSdkAppId" value="1:900060764534:android:c92937e0a8e354738fc257" />
                   <option name="projectId" value="shopping-app-59817" />
                   <option name="projectNumber" value="900060764534" />
+=======
+                  <option name="appId" value="com.example.shopping" />
+                  <option name="mobileSdkAppId" value="1:1043764619442:android:05f0ac7d1ac3e2e513c1ab" />
+                  <option name="projectId" value="shopping-app-admin-a2b7f" />
+                  <option name="projectNumber" value="1043764619442" />
+>>>>>>> gradle-issues
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

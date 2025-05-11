@@ -2,10 +2,14 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
+<<<<<<< HEAD
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
       <SelectionState runConfigName="MainActivity">
+=======
+      <SelectionState runConfigName="Shopping_App.app">
+>>>>>>> gradle-issues
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

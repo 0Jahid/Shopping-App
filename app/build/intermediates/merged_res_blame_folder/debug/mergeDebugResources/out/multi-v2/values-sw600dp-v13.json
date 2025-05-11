@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.shopping.app-mergeDebugResources-68:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jahid\\.gradle\\caches\\transforms-4\\cb9501d3ac5889dcbc33c1655f27f6ec\\transformed\\standard-core-1.6.49\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,15",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,871"
+                    }
+                }
+            ]
+        }
+    ]
+}

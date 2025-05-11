@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     xmlns:tools="http://schemas.android.com/tools">
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -15,10 +16,28 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
+=======
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.shopping">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+
+    <application
+        android:name="com.example.shopping.BaseApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_logo_2"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_logo_2"
+>>>>>>> gradle-issues
         android:supportsRtl="true"
         android:theme="@style/Theme.ShoppingApp"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
@@ -31,4 +50,21 @@
         </activity>
     </application>
 
+=======
+            android:name="com.example.shopping.MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.ShoppingApp">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_Za2in6RQM8uXqB" />
+    </application>
+>>>>>>> gradle-issues
 </manifest>

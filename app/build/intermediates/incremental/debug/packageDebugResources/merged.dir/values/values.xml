@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#4157ff</color>
+    <color name="ic_launcher_background">#000000</color>
+    <color name="orange">#d68325</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#7CBF40</color>
+    <color name="redish">#e82252</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Profile">Jahid Hasan</string>
+    <string name="app_name">Shopping App</string>
+    <string name="default_web_client_id" translatable="false">1043764619442-bfivan649gdhaa521155113trge174nq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1043764619442</string>
+    <string name="google_api_key" translatable="false">AIzaSyApDEtf23JzqSe1fY-Y6xajcuE8jcFCOCI</string>
+    <string name="google_app_id" translatable="false">1:1043764619442:android:05f0ac7d1ac3e2e513c1ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApDEtf23JzqSe1fY-Y6xajcuE8jcFCOCI</string>
+    <string name="google_storage_bucket" translatable="false">shopping-app-admin-a2b7f.appspot.com</string>
+    <string name="project_id" translatable="false">shopping-app-admin-a2b7f</string>
+    <style name="Theme.ShoppingApp" parent="android:Theme.Material.Light.NoActionBar">
+
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

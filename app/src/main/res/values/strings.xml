@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Shopping App</string>
+<<<<<<< HEAD
+=======
+    <string name="Profile">Jahid Hasan</string>
+>>>>>>> gradle-issues
 </resources>
